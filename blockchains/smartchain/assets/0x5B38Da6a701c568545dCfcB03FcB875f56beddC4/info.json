@@ -1,0 +1,11 @@
+{
+  "name": "NeuroNet",
+  "symbol": "NNET",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "NeuroNet é uma plataforma inovadora de farm com tecnologia inteligente.",
+  "website": "https://seusite.com",
+  "explorer": "https://bscscan.com/token/0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+  "status": "active",
+  "id": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4"
+}
